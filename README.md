@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fermanza
+- 👀 I’m interested in Computer Science, Fitness, Finance, Healthcare
+- 🌱 I’m currently learning Python, AI, Data Science
+- 💞️ I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me fermanza@gmail.com
