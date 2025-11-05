@@ -1,18 +1,29 @@
-## Hi there, I’m Fernando Manzano; @fermanza 👋
+👋 Hi, I’m Fernando Manzano (@fermanza)
 
-#### About Me
-- 👀 I am passionate about a wide array of topics within the tech world, particularly in **Computer Science**, **Artificial Intelligence**, **Cyber Security**, **Web Development** and **Blockchain**.
+🚀 About Me
 
-#### Expertise
-- 🔭 I’m an experienced engineer with proficiency in: Python, PHP, AWS, Docker, Terraform, SQL, AI, Data Science, Cyber Security.
+I'm a passionate software engineer with a deep curiosity for how systems work and scale. I thrive at the intersection of AI, Cybersecurity, Web Development, and Cloud Infrastructure, and I love turning complex problems into elegant, maintainable solutions.
 
-#### Learning Journey
-- 🌱 I believe in lifelong learning and am currently focused on expanding my knowledge and skills in AI and Cyber Security.
+🧠 What I Work With
 
-#### Collaboration
-- 💞️ I’m looking to collaborate on Open Source Projects and many more.
+•  💻 Languages & Frameworks: Python, PHP, JavaScript, SQL, FastAPI, Flask, React
+•  ☁️ Cloud & DevOps: AWS, Docker, Terraform, CI/CD pipelines
+•  🔐 Security & Infrastructure: Cybersecurity fundamentals, API authentication, scalable backend design
+•  🧪 AI & Data: NLP, Transformers, TensorFlow, PyTorch, Data Science workflows
 
-#### Contact
-- 📫 How to reach me fermanza@gmail.com.
+🌱 Currently Exploring
 
-#### Looking forward to connecting with you!
+•  Building robust AI pipelines and multimodal applications
+•  Strengthening cybersecurity practices for cloud-native systems
+•  Automating onboarding and troubleshooting for reproducible developer workflows
+
+🤝 Collaboration Goals
+
+I'm always excited to collaborate on:
+
+•  🧩 Open Source projects
+•  🧠 AI and NLP experiments
+•  🔧 Developer tooling and automation
+•  🕸️ Scalable backend APIs and cloud-native architectures
+
+#### 📫 Looking forward to connecting with you! 📫
